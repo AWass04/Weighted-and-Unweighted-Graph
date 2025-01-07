@@ -1,0 +1,14 @@
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\bin\Debug\net8.0\Influence Score Calc.exe
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\bin\Debug\net8.0\Influence Score Calc.deps.json
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\bin\Debug\net8.0\Influence Score Calc.runtimeconfig.json
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\bin\Debug\net8.0\Influence Score Calc.dll
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\bin\Debug\net8.0\Influence Score Calc.pdb
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\Influence Score Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\Influence Score Calc.AssemblyInfoInputs.cache
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\Influence Score Calc.AssemblyInfo.cs
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\Influence Score Calc.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\Influence Score Calc.dll
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\refint\Influence Score Calc.dll
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\Influence Score Calc.pdb
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\Influence Score Calc.genruntimeconfig.cache
+C:\Users\Aaron Wass\Documents\Uni\Yr 2 - Semester 1\Algorithms and Data Structures\Assignment\Project 3\Unweighted\Influence Score Calc\Influence Score Calc\obj\Debug\net8.0\ref\Influence Score Calc.dll
